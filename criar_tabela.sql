@@ -1,0 +1,1 @@
+CREATE TABLE estados (IDESTADO int not null AUTO_INCREMENT primary key, SIGLAUF varchar (3) not null);
